@@ -1,0 +1,6 @@
+{
+  "name": "ARCHIVEX - Media Archive & Telegram Relay Platform",
+  "description": "Production-quality personal media archive platform controlled via Telegram and web admin with persistent job queue, channel-to-channel media relay, and deduplication engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
